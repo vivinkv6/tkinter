@@ -5,7 +5,12 @@ Tkinter is the inbuilt python module that is used to create GUI applications. It
 ## Installation
 
 ```bash
-import tkinter as tk
+import tkinter 
 
 ```
 
+## Simple Projects
+
+1)[Form](https://github.com/vivinkv6/tkinter/blob/master/form.py)
+
+2)[Flag](https://github.com/vivinkv6/tkinter/blob/master/form.py)
